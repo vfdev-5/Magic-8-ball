@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Magic 8-Ball</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="about_text">
+        This Magic 8-ball answer you when \n
+        you turn the device upside down and \n
+        wait until it vibrates. After you can \n
+        turn the device in normal position.\n
+        Enjoy!</string>
+
+    <string-array name="responses">
+        <item>It is\n certain</item>
+        <item>It is\n decidedly so</item>
+        <item>Without a\n doubt</item>
+        <item>Yes definitely</item>
+        <item>You may rely\n on it</item>
+        <item>As I see it,\n yes</item>
+        <item>Most likely</item>
+        <item>Outlook good</item>
+        <item>Yes</item>
+        <item>Signs point\n to yes</item>
+        <item>Reply hazy\n try again</item>
+        <item>Ask again later</item>
+        <item>Better not tell\n you now</item>
+        <item>Cannot predict\n now</item>
+        <item>Concentrate and\n ask again</item>
+        <item>Don\'t count\n on it</item>
+        <item>My reply is\n no</item>
+        <item>My sources say\n no</item>
+        <item>Outlook not\n so good</item>
+        <item>Very doubtful</item>
+    </string-array>
+
+
+</resources>
